@@ -5,6 +5,7 @@ riene 10 años de existir
 se incia con diseño web y programacion
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Experimento 1
 
 Experimento 2
@@ -15,5 +16,10 @@ Master 1
 
 Master 2
 >>>>>>> 0323ca1... Master 2
+=======
+Master 1
+
+Master 2
+>>>>>>> 0323ca1b3e75e2d5889279702ddfdd8eb205fde5
 
 Mañana nos enfocamos en su vida laboral
